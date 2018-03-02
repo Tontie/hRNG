@@ -6,14 +6,16 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-hRNG	KEYWORD1funk     KEYWORD1
+hRNG	KEYWORD1
+funk	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
 Randy	KEYWORD2
-init	KEYWORD2stop	KEYWORD2
+init	KEYWORD2
+stop	KEYWORD2
 
 
 #######################################
